@@ -1,0 +1,41 @@
+/* h1{
+    color: red;
+} */
+
+figure {
+  background: red;
+  width: 150px;
+  height: 150px;
+  color: white;
+  border: 5px solid rgba(84, 5, 5, 0.673);
+  padding: 20px;
+  float: left;
+}
+
+figure p {
+  text-align: center;
+  margin: auto;
+}
+
+#box-1{
+    background: blue;
+    border: 5px solid rgba(18, 198, 238, 0.673);
+}
+#box-2{
+    background: green;
+    border: 5px solid rgba(6, 72, 36, 0.673);
+}
+#box-3{
+    background: orangered;
+    border: 5px solid rgba(245, 117, 19, 0.673);
+}
+#box-4{
+    background: purple;
+    border: 5px solid rgba(85, 13, 89, 0.673);
+}
+
+#box-5{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
